@@ -1,0 +1,13 @@
+node_modules
+.env
+.envrc
+.git
+.gitignore
+nixpacks.toml
+package.json
+package-lock.json
+serve.json
+vercel.json
+Dockerfile
+nginx.conf
+*.bak
