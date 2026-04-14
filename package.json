@@ -1,0 +1,7 @@
+{
+  "name": "kyes-guys-pizza",
+  "private": true,
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
